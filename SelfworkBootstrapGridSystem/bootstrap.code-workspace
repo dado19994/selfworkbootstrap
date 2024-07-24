@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../bootstrap"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../sito"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SelfworkBootstrapGridSystem"
+	}
+}

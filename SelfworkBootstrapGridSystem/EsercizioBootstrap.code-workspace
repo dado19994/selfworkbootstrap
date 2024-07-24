@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../EsercizioBootstrap"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SelfworkBootstrapGridSystem"
+	}
+}

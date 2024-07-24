@@ -1,0 +1,101 @@
+
+h1, h2, h3, h4, h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+nav{
+    background-color: rgba(148, 161, 135, 0.782);
+    height: 100px;
+}
+
+.Logosito{
+    width: 100px;
+    height: 100px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    
+}
+
+.personalizzato{
+    color: white;
+}
+
+.link:hover{
+    border-bottom: 2px solid black;
+    
+}
+
+.listlink{
+    list-style-type: none;
+    margin: 0px;
+}
+
+header{
+    background-image: url(./img/sfondo\ header.jpg);
+    background-size: cover;
+    height: 100vh;
+    /* background-position: center; */
+    /* text-align: center; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* justify-content: center; */
+
+}
+
+h1{
+    color: rgb(188, 170, 153);
+    letter-spacing: 10px;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* .linkhome{ */
+    /* color: white; */
+    /* text-decoration: none; */
+    /* margin-bottom: 20px; */
+/* } */
+/*  */
+main{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.titleArticle{
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* .containerArticle{ */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* width: 70%; */
+/* } */
+
+.imgArticle{
+    width: 300px;
+    margin: 10px;
+}
+
+.article-custom{
+    background-color: rgb(126, 141, 133);
+    
+}
+
+
+/* @media screen and(min-height:600px){ */
+    
+    
+    
+/* } */
+/*  */
+
+
